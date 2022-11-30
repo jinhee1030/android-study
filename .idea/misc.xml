@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.228" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/drawable/ic_launcher_background.xml" value="0.228" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/font/akronim.xml" value="0.3921875" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex10_phone_create1_ex.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex11_bear_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex11_list_view_ex.xml" value="0.24147727272727273" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex11_listview_list_item.xml" value="0.32592592592592595" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex12_list_view.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex12_listview_list_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex12_phonecreate2ex.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex12_phoneitem.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex13_spinner.xml" value="0.3619791666666667" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex13_spinner2-1.xml" value="0.3453125" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex13_spinner2.xml" value="0.3453125" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex14_switch.xml" value="0.3619791666666667" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex15_spinner2.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex16_intent_receive.xml" value="0.3515625" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex16_intent_send.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex17_intent_sud.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex17intent_sud.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex17intent_test.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex18_sharedpreferences.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex19.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex19_sharedpreferences2.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex1_animation.xml" value="0.3619791666666667" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex21_hadlerex.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex22_fragment.xml" value="0.30277777777777776" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex23_calc.xml" value="0.2972222222222222" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex24_gps.xml" value="0.28703703703703703" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex25_join_ok.xml" value="0.2962962962962963" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex25_joinok.xml" value="0.2962962962962963" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex25_sqlite_ex_login.xml" value="0.2962962962962963" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex26_dday.xml" value="0.3605128205128205" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex2_gif.xml" value="0.3619791666666667" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex3_gif.xml" value="0.3619791666666667" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex3_video.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex4_media.xml" value="0.3619791666666667" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex4_mediao.xml" value="0.3619791666666667" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex5_web_view.xml" value="0.3619791666666667" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex6_call.xml" value="0.3619791666666667" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex7_sms_send.xml" value="0.3619791666666667" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_ex9_img.xml" value="0.3138888888888889" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_logo.xml" value="0.35052083333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_main2.xml" value="0.29674968341072183" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_my_adapter.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_my_sqlite_open_helper.xml" value="0.2962962962962963" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_zz.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/activity_zzzzzzzzzzzz.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/ex11_listview_list_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/fragment_a.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/fragment_b.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/frame1.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/frame2.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/frame3.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/frame4.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/layout.xml" value="0.2165742452248922" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/layout_ex20_viewpager2.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/layout_ex22_afragment.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/layout_ex22_fragment.xml" value="0.2972222222222222" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/layout_ex25_sqlite_join.xml" value="0.33" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/layout_ex25_sqlite_login.xml" value="0.2796296296296296" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/layout_ex25_sqlite_main.xml" value="0.1" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/layout_ex27_recyclerview.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/layout_ex27recycler_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/layout_ex8_galleryview.xml" value="0.36614583333333334" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/layout_map.xml" value="0.28703703703703703" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/layout/layout_webview_full.xml" value="0.3619791666666667" />
+        <entry key="..\:/kjh/MyApplication5/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.179" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.36614583333333334" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
